@@ -1,0 +1,22 @@
+Using diff made it easier to spot a bug because it shows up what has changed from
+one version to the other.  Isolating only the changes means you can analyze huge files 
+easily.
+
+By having the entire history of a file you can see how it evolved other time in terms
+of design and also function.
+
+Manual commits are better because this gives the developer control over the intent of
+the commit. Auto-saving the text locally can be used as well since this does not need
+to compile like a commit should.
+
+Since git is meant for source code, it tracks changes across files in one swoop.  Google
+docs is meant to track one file at a time so it does not do this.
+
+Using the log and diff commands in git will allow you to review changes you made and 
+also see what changed from one release to the next (or others).
+
+Using version control gives you confidence in making changes because you can always
+revert back to an older state if things go wrong.
+
+After setting up my git workspace, I would like to create a repository and check in some
+files to practice.
