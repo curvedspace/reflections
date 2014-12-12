@@ -1,0 +1,7 @@
+When you initialize a repository it sets up the internal database it uses to keep
+track of the files in the repository.  It needs to do this so it can manage the new
+files and their changes later on.
+
+The staging area is a place where you can drop changes before commiting then and hence 
+adding them to the actual repo.  It gives you flexibility to group changes into a logical
+group.
