@@ -10,3 +10,5 @@ The staging area helps with logical commits because you can add or remove files 
 before commiting them.  This lets you build up the final commit slowly.
 
 Branches are good for trying out experimental features without worrying about messing up the exisiting code.
+
+Branches diagrams are good for visualizing the paths in the branch structure.  They can tell you what was added on a given branch as well as when it was merged into another branch (if applicable).
