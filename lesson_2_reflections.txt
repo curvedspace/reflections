@@ -5,3 +5,8 @@ files and their changes later on.
 The staging area is a place where you can drop changes before commiting then and hence 
 adding them to the actual repo.  It gives you flexibility to group changes into a logical
 group.
+
+The staging area helps with logical commits because you can add or remove files there
+before commiting them.  This lets you build up the final commit slowly.
+
+Branches are good for trying out experimental features without worrying about messing up the exisiting code.
