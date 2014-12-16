@@ -1,1 +1,5 @@
 Using remote repositories is good for multi-dev situations.
+
+You might want to do manual pulls in cases where you were working on a feature and did 
+not want to incorporate others' changes automatically.  It gives you more flexibility
+than if git made this automatic.
