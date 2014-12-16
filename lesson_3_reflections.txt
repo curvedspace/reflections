@@ -3,3 +3,7 @@ Using remote repositories is good for multi-dev situations.
 You might want to do manual pulls in cases where you were working on a feature and did 
 not want to incorporate others' changes automatically.  It gives you more flexibility
 than if git made this automatic.
+
+Branches are good for local changes, forks are good for getting existing code that you 
+can't or won't contribute back to. A clone will allow you to contribute back to the code
+if you have contributor access.
