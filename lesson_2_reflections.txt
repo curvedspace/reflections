@@ -14,3 +14,5 @@ Branches are good for trying out experimental features without worrying about me
 Branches diagrams are good for visualizing the paths in the branch structure.  They can tell you what was added on a given branch as well as when it was merged into another branch (if applicable).
 
 Merging branches takes all the commits from them and makes them available on the new branch post-merge.  Usually you merge from the aux branch into the main branch.
+
+Git's auto merge is good for when the code does not conflict in anyway, but in that case doing a manual merge is better since it may not be straight forward.
