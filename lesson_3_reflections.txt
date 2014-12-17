@@ -7,3 +7,5 @@ than if git made this automatic.
 Branches are good for local changes, forks are good for getting existing code that you 
 can't or won't contribute back to. A clone will allow you to contribute back to the code
 if you have contributor access.
+
+Having the remote repo stored locally is useful if you want to see the changes made that are not in your local repo but not apply them right away.
