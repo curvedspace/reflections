@@ -9,3 +9,5 @@ can't or won't contribute back to. A clone will allow you to contribute back to 
 if you have contributor access.
 
 Having the remote repo stored locally is useful if you want to see the changes made that are not in your local repo but not apply them right away.
+
+Without git and GitHub, you could collaborate by using a single remote copy of the codebase somewhere and using diff to manually check each file for changes before overwriting it.  This would be harder in most cases but easier when adding new files.
